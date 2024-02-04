@@ -1,0 +1,7 @@
+print ("Хелоу, вот из ёр нейм?")
+name = input ()
+
+print ("Какую оценку ты получил за урок?")
+grade = input ()
+
+print (name, "получил за урок", grade)
